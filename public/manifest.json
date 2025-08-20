@@ -1,0 +1,22 @@
+{
+  "short_name": "Chess Duel",
+  "name": "Chess Duel Offline",
+  "icons": [
+    {
+      "src": "chess-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "chess-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#222",
+  "theme_color": "#f0d9b5",
+  "description": "Offline chess board for duo play. Install as PWA or run locally.",
+  "scope": "."
+}
